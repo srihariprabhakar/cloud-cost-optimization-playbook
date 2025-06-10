@@ -1,0 +1,3 @@
+- [ ] Account tagging structure reviewed
+- [ ] Idle resources identified
+- [ ] Cost anomaly alerts set up
